@@ -9,7 +9,8 @@
 body {
     font-family: 'Raleway', sans-serif;
     font-weight: 300;
-    color: #405E63;  
+    color: #054E57; 
+   /* background-color: #F6F6F6; */
 }
 
 /* headings and logo */
@@ -17,7 +18,7 @@ body {
 h1, h2 {
     font-family: 'Open-Sans', sans-serif;
     text-transform: lowercase;
-    color: #054E57;
+    color: #003942;
     letter-spacing: 2px;    
 }
 
@@ -58,4 +59,19 @@ h1, h2 {
 
 .active  {
     border-bottom: 1px solid #054E57;
+}
+
+/* hero image */
+
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    clear: both;
+}
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/16x9\ animal-black-and-gray-dog-on-brown-sands-dog-dog-image.jpg') no-repeat center center;
+    background-size: cover; 
 }
