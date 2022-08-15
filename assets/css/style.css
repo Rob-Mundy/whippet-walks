@@ -25,6 +25,7 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 280%;
+    margin-left: 10px;
 }
 
 /* nav links */
@@ -66,12 +67,28 @@ h1, h2 {
 #hero-outer {
     height: 600px;
     width: 100%;
-    clear: both;
+    overflow: hidden;
 }
 
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url('../images/16x9\ animal-black-and-gray-dog-on-brown-sands-dog-dog-image.jpg') no-repeat center center;
+    background: url('../images/16x9\ depositphotos_223407470-stock-photo-two-white-whippets-playing-outdoor.jpg') no-repeat center center;
     background-size: cover; 
+
+    /* animates zoom effect  upon page refresh */
+    animation-name: hero-zoom;
+    animation-duration: 4s;
+    animation-fill-mode: forwards;
+}
+
+/* creates level of zoom effect for hero image */
+
+@keyframes hero-zoom {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.1);
+    }
 }
