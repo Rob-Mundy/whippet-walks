@@ -117,6 +117,12 @@ h1, h2 {
 
 /* group ethos */
 
+#welcome {
+    margin: 20px;
+    font-size: 280%;
+    text-align: center;
+}
+
 #group-ethos {
     height: 600px;
     width: 100%; 
@@ -168,4 +174,25 @@ hr {
 
 .right-about-heading h2, .right-about-heading p {
     text-align: right;
+}
+
+#circle-container {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border-style: solid;
+    border-color: #f6f6f6;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+#circle-cover-background {
+    background: url('../images/square\ depositphotos_223407478-stock-photo-beautiful-adorable-happy-blonde-woman.jpg') no-repeat center center;
+    width: 300px;
+    height: 300px;
+    
+    border-radius: 50%;
+    margin: 0 auto;
+    background-size: cover; 
 }
