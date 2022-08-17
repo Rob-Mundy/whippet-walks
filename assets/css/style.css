@@ -192,3 +192,42 @@ hr {
     border-radius: 50%;
     background-size: cover; 
 }
+
+/* event times and locations */
+
+#events {
+    width: 100%;
+    height: 300px;
+    display: inline-block;
+}
+
+#events div {
+    width: 25%;
+    height: 300px;
+    float: left;
+    padding: 10px 0 0 10px;
+    text-align: center;
+    border: 2px solid #fff;
+    background-color: rgba(64, 94, 99, .7);
+    background-size: cover;
+    background-position: center;
+    box-sizing: border-box;
+}
+
+.loc-catton-park {
+    background-image: url('../images/4x5-\ Catton\ Park\ Meadow\ and\ House.jpg'); 
+}
+
+.loc-fairhaven {
+    background-image: url('../images/4x5-\ Fairhaven\ Water\ Garden\ Path\ Along\ River.jpg');
+    color: #f6f6f6;
+}
+
+.loc-syderstone {
+    background-image: url('../images/4x5\ Syderstone\ Common\ Heathland.jpg');
+}
+
+.loc-marriots-way {
+    background-image: url('../images/4x5\ -\ Marriot\'s\ Way\ Bridge\ Over\ Path.jpg');
+    color: #f6f6f6;
+}
