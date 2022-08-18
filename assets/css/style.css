@@ -15,6 +15,14 @@ body {
 
 /* headings and logo */
 
+#header {
+    position: fixed;
+    width: 100%;
+    background: #fff;
+    z-index: 2;
+    border-bottom: 1px solid #054E57;
+}
+
 h1, h2 {
     font-family: 'Open-Sans', sans-serif;
     text-transform: lowercase;
