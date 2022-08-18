@@ -85,12 +85,13 @@ h1, h2 {
 #cover-text, #cover-text h2 {
     color: #054E57
 }
+
 #hero-image {
-    height: 400px;
+    height: 550px;
     width: 45%;
     background: url('../images/16x9\ depositphotos_223407470-stock-photo-two-white-whippets-playing-outdoor.jpg') no-repeat center center;
     background-size: cover; 
-    margin: 30px;
+    margin: 30px 0px 30px 60px;
     padding: 30px;
     border-radius: 15px;
     border-color: #fff;
@@ -117,7 +118,7 @@ h1, h2 {
 }
 */
 #cover-text {
-    font-size: 180%;
+    font-size: 2rem;
     font-family: 'Raleway', sans-serif;
    /* text-transform: lowercase; */
     letter-spacing: 2px;
@@ -125,7 +126,7 @@ h1, h2 {
     /* sets dimensions of div container */
     width: 50%;
     height: 600px;
-    /*margin: 30px;*/
+    margin-top: 60px;
     padding: 30px;
     float: right;
     box-sizing: border-box;
@@ -163,7 +164,7 @@ h1, h2 {
     text-align: center;
     vertical-align: middle;
     color: #f6f6f6;
-    font-size: 75%;
+    font-size: 50%;
 }
 
 /* group ethos */
@@ -226,9 +227,9 @@ hr {
     text-align: right;
 }
 
-#circle-container {
-    width: 300px;
-    height: 300px;
+.circle-container {
+    width: 150px;
+    height: 150px;
     padding: 30px;
     border-style: solid;
     border-color: #fff;
