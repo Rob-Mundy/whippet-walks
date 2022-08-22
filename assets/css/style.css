@@ -297,7 +297,7 @@ hr {
 
 #events div {
     width: 33.33%;
-    height: 500px;
+    height: 550px;
     float: left;
     text-align: center;
     font-size: 1.1em;
@@ -312,13 +312,15 @@ hr {
     padding: 24px;
 }
 
-#events div h3 {
+#events div h4 {
     padding-bottom: 12px;
+    color: #405E63;
 }
 
 #events ul {
     padding: 12px 24px;
     font-size: 1.1em;
+    line-height: 30px;
 }
 
 #events ul li::marker {
