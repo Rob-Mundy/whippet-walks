@@ -322,7 +322,7 @@ hr {
 /* footer */
 
 footer {
-    height: 75px;
+    height: 150px;
     width: 100%;
     text-align: center;
 }
@@ -330,4 +330,15 @@ footer {
 footer a {
     text-decoration: none;
     color: inherit;
+}
+
+.social-networks li {
+    list-style-type: none;
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 1.75em;
+    margin: 1px;
+    padding: 5%;
 }
