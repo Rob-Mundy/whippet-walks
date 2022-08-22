@@ -297,7 +297,7 @@ hr {
 
 #events div {
     width: 33.33%;
-    height: 400px;
+    height: 500px;
     float: left;
     text-align: center;
     font-size: 1.1em;
@@ -312,25 +312,18 @@ hr {
     padding: 24px;
 }
 
-/*
-.loc-catton-park {
-    background-image: url('../images/4x5-\ Catton\ Park\ Meadow\ and\ House.jpg'); 
+#events div h3 {
+    padding-bottom: 12px;
 }
 
-.loc-fairhaven {
-    background-image: url('../images/4x5-\ Fairhaven\ Water\ Garden\ Path\ Along\ River.jpg');
-    color: #f6f6f6;
+#events ul {
+    padding: 12px 24px;
+    font-size: 1.1em;
 }
 
-.loc-syderstone {
-    background-image: url('../images/4x5\ Syderstone\ Common\ Heathland.jpg');
+#events ul li::marker {
+        content: '✓';
 }
-
-.loc-marriots-way {
-    background-image: url('../images/4x5\ -\ Marriot\'s\ Way\ Bridge\ Over\ Path.jpg');
-    color: #f6f6f6;
-}
-*/
 
 /* footer */
 
