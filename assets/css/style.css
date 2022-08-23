@@ -359,3 +359,12 @@ footer a {
     margin: 1px;
     padding: 5%;
 }
+
+/* sign up page */
+
+.form-section {
+    background: url('../images/16x9\ depositphotos_156531312-stock-photo-whippet-dog-portrait-in-nature.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+}
