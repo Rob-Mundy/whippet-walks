@@ -306,6 +306,7 @@ hr {
     border: 12px solid #f6f6f6;
     border-radius: 15px;
     box-sizing: border-box;
+    position: relative;
 }
 
 #events div h2 {
@@ -320,11 +321,19 @@ hr {
 #events ul {
     padding: 12px 24px;
     font-size: 1.1em;
-    line-height: 30px;
+    line-height: 25px;
 }
 
 #events ul li::marker {
         content: '✓';
+}
+
+#events iframe {
+    position: absolute;
+    height: 150px;
+    width: 90%;
+    bottom: 20px;
+    left: 20px;
 }
 
 /* footer */
