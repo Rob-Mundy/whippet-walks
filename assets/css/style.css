@@ -139,9 +139,9 @@ h1, h2 {
     */
 }
 
-/* sign up button */
+/* sign up link button */
 
-.sign-up-button {
+.sign-up-link-button {
     width: 200px;
     height: 40px;
     border-radius: 4px;
@@ -151,7 +151,7 @@ h1, h2 {
     float: left;
 }
 
-.sign-up-button > a {
+.sign-up-link-button > a {
     height: 100%;
     width:100%;
 	display: inline-table;
@@ -159,7 +159,7 @@ h1, h2 {
     text-decoration: none;
 }
 
-.sign-up-button > a > h3 {
+.sign-up-link-button > a > h3 {
     /*margin: 0 auto;*/
     display: table-cell;
     text-align: center;
@@ -379,4 +379,15 @@ footer a {
     padding: 24px;
     margin: 150px 5% 0 0;
     max-width: 350px;
+}
+
+.sign-up-button {
+    width: 200px;
+    height: 40px;
+    margin-top: 20px;
+    border-radius: 4px;
+    background-color: #B6936F;
+    display: block;
+    border: 1px solid #405E63;
+    float: left;
 }
