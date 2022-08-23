@@ -16,11 +16,11 @@ body {
 /* headings and logo */
 
 header {
-    border-bottom: 1px solid #054E57;
+    /*border-bottom: 1px solid #054E57;*/
     width: 100%;
     background: #fff;
-    position: fixed;
-    z-index: 2;
+    position: absolute;
+    /*z-index: 2;*/
 }
 
 h1, h2 {
@@ -76,7 +76,7 @@ h1, h2 {
 #hero-outer {
     height: 600px;
     width: 100%;
-    margin: 75px 24px 48px 24px;
+    margin: 75px 25px 50px 25px;
     overflow: hidden;
     position: relative;
     display: inline-block;
@@ -349,6 +349,8 @@ footer {
     height: 150px;
     width: 100%;
     text-align: center;
+    bottom: 0;
+    left: 0;
 }
 
 footer a {
@@ -421,5 +423,23 @@ footer a {
     background-color: #003942;
     color: #f6f6f6;
     border-color: #f6f6f6;
+}
+
+/* Training Tips */
+
+#tips-articles {
+    width: 65%;
+    float: left;
+    padding: 24px;
+    margin: 75px 0px 0px 5px;
+}
+
+#tips-aside {
+    width: 30%;
+    height: 600px;
+    float: right;
+    padding: 24px;
+    margin: 75px 0px 0px 5px;
+    clear: both;
 }
 
