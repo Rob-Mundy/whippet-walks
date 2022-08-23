@@ -304,7 +304,7 @@ hr {
     padding: 24px;
     background-color: #fff;
     border: 12px solid #f6f6f6;
-    border-radius: 15px;
+    border-radius: 25px;
     box-sizing: border-box;
     position: relative;
 }
@@ -366,5 +366,17 @@ footer a {
     background: url('../images/16x9\ depositphotos_156531312-stock-photo-whippet-dog-portrait-in-nature.jpg');
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
     height: 900px;
+}
+
+.signup-form {
+    color: #f6f6f6;
+    background-color: rgba(64, 94, 99, .6);
+    border-radius: 15px;
+    position: absolute;
+    right: 10%;
+    padding: 24px;
+    margin: 150px 5% 0 0;
+    max-width: 350px;
 }
