@@ -41,15 +41,16 @@
             <label for="email">Email Address</label><br>
             <input type="email" id="email" name="email" class="signup-text-input" required><br>
             <label for="password">Password</label><br>
-            <input type="password" id="password" name="password" class="signup-text-input" required><br>
+            <input type="password" id="password" name="password" class="signup-text-input" 
+            placeholder="********" pattern="\w{8}" title="Please choose a password containing at least 8 characters" required><br>
             
             <h4>Please confirm your primary location</h4>
-            <input type="radio" id="norwich" name="primary_location">
-            <label for="norwich" value="norwich" required>Norwich</label> 
-            <input type="radio" id="north_norfolk" name="primary_location">
-            <label for="north_norfolk" value="north_norfolk" required>North Norfolk</label>
-            <input type="radio" id="broadlands" name="primary_location">
-            <label for="broadlands" value="broadlands" required>Broadlands</label> 
+            <input type="radio" id="norwich" value="norwich" name="primary_location" required>
+            <label for="norwich">Norwich</label> 
+            <input type="radio" id="north_norfolk" value="north_norfolk" name="primary_location" required>
+            <label for="north_norfolk">North Norfolk</label>
+            <input type="radio" id="broadlands" value="broadlands" name="primary_location" required>
+            <label for="broadlands">Broadlands</label> 
 
             <input class="sign-up-button" type="submit" value="Create your free account">
         </form>
