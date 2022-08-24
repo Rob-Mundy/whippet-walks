@@ -447,6 +447,7 @@ article {
     float: left;
     padding: 24px;
     margin-bottom: 12px;
+
 }
 
 article a {
@@ -468,6 +469,16 @@ aside {
     margin-bottom: 12px;
     /*margin: 75px 0px 0px 5px;*/
     background-color: #A3BAB7;
-    
 }
 
+aside ul li {
+    float: left;
+    list-style-type: none;
+}
+
+.sidebar-pic {
+    width: 30%;
+    background-size: cover;
+    padding: 5px;
+    float: left;
+}
