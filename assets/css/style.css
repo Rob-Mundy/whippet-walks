@@ -349,8 +349,6 @@ footer {
     height: 150px;
     width: 100%;
     text-align: center;
-    bottom: 0;
-    left: 0;
 }
 
 footer a {
@@ -427,19 +425,34 @@ footer a {
 
 /* Training Tips */
 
+#tips-main {
+    width: 100%;
+    margin: 75px 25px 50px 25px;
+    overflow: hidden;
+    position: relative;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+#tips-main h2 {
+    width: 100%;
+    float: left;
+    font-size: 230%;
+    margin-left: 55px;
+}
+
 #tips-articles {
     width: 65%;
     float: left;
     padding: 24px;
-    margin: 75px 0px 0px 5px;
+    /*margin: 75px 0px 0px 5px;*/
 }
 
 #tips-aside {
-    width: 30%;
-    height: 600px;
+    width: 25%;
     float: right;
     padding: 24px;
-    margin: 75px 0px 0px 5px;
-    clear: both;
+    /*margin: 75px 0px 0px 5px;*/
+    background-color: #A3BAB7;
 }
 
