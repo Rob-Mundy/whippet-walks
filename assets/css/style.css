@@ -439,19 +439,21 @@ footer a {
     float: left;
     font-size: 1.5em;
     /*margin-left: 55px;*/
-    padding: 24px;
+    padding: 12px;
 }
 
 article {
     width: 65%;
     float: left;
     padding: 24px;
-    /*margin: 75px 0px 0px 5px;*/
+    margin-bottom: 12px;
 }
 
-article h3 {
-    font-size: 1.3em;
-    letter-spacing: 2px;
+article a {
+    font-size: 1.1em;
+    /*letter-spacing: 2px;*/
+    text-decoration: none;
+    color: #054E57;
 }
 
 .video-wrapper {
@@ -459,11 +461,13 @@ article h3 {
     float: left;
 }
 
-#tips-aside {
-    width: 25%;
+aside {
+    width: 20%;
     float: right;
     padding: 24px;
+    margin-bottom: 12px;
     /*margin: 75px 0px 0px 5px;*/
     background-color: #A3BAB7;
+    
 }
 
