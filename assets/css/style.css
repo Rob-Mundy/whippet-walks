@@ -426,7 +426,7 @@ footer a {
 /* Training Tips */
 
 #tips-main {
-    width: 100%;
+    width: 60%;
     margin: 75px 25px 50px 25px;
     overflow: hidden;
     position: relative;
@@ -437,17 +437,21 @@ footer a {
 #tips-main h2 {
     width: 100%;
     float: left;
-    font-size: 1.5em;
-    /*margin-left: 55px;*/
-    padding: 12px;
+    font-size: 230%;
+    margin-left: 55px;
+    /*padding: 12px;*/
+}
+
+#tips-main p {
+    float: left;
+    width: 100%;
 }
 
 article {
-    width: 65%;
+    width: 100%;
     float: left;
-    padding: 24px;
+    padding: 12px;
     margin-bottom: 12px;
-
 }
 
 article a {
@@ -458,17 +462,16 @@ article a {
 }
 
 .video-wrapper {
-    padding: 12px;
+    padding: 12px 5px 12px 0px;
     float: left;
 }
 
 aside {
-    width: 20%;
+    width: 25%;
     float: right;
     padding: 24px;
-    margin-bottom: 12px;
-    /*margin: 75px 0px 0px 5px;*/
-    background-color: #A3BAB7;
+    margin: 75px 25px 50px 25px;
+    /*background-color: #A3BAB7;*/
 }
 
 aside h3 {
@@ -479,6 +482,7 @@ aside h3 {
 aside ul li {
     float: left;
     list-style-type: none;
+    margin-bottom: 24px;
 }
 
 aside a {
