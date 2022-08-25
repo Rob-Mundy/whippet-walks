@@ -428,10 +428,10 @@ footer a {
 #tips-main {
     width: 60%;
     margin: 75px 25px 50px 25px;
-    overflow: hidden;
-    position: relative;
+    /*overflow: hidden;
+    position: relative;*/
     display: inline-block;
-    box-sizing: border-box;
+    /*box-sizing: border-box;*/
 }
 
 #tips-main h2 {
@@ -459,6 +459,10 @@ article a {
     /*letter-spacing: 2px;*/
     text-decoration: none;
     color: #054E57;
+}
+
+article p {
+    text-align: justify;
 }
 
 .video-wrapper {
