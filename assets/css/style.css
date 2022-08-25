@@ -132,11 +132,6 @@ h1, h2 {
     float: right;
     box-sizing: border-box;
 
-    /* background-color: rgba(64, 94, 99, .7);
-    bottom: 30px;
-    right: 150px;
-    position: absolute
-    */
 }
 
 /* sign up link button */
@@ -499,4 +494,39 @@ aside a {
     background-size: cover;
     padding: 5px;
     float: left;
+}
+
+/* media queries */
+
+@media screen and (max-width: 1200px) {
+    #hero-outer {
+        width: 65%;
+        margin: 0 auto;
+    }
+    
+    #cover-text {
+        background-color: rgba(64, 94, 99, .7);
+        height: 60%;
+        position: absolute;
+        bottom: 30px;
+        right: 150px;
+        font-size: 0.9em;
+    }
+
+    #group-ethos {
+        width: 65%;
+        height: auto;
+        margin: 0 auto;
+    }
+    
+    #events {
+        width: 65%;
+        height: auto;
+        margin: 0 auto;
+    }
+    
+    #events div {
+        width: 65%;
+    }
+
 }
