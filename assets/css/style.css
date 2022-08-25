@@ -499,18 +499,27 @@ aside a {
 /* media queries */
 
 @media screen and (max-width: 1200px) {
+    header {
+        width: 65%;
+        margin: 0 auto;
+        position: relative;
+    }
+
     #hero-outer {
         width: 65%;
         margin: 0 auto;
     }
     
-    #cover-text {
-        background-color: rgba(64, 94, 99, .7);
-        height: 60%;
+    #hero-image, #cover-text {
+        /*background-color: rgba(64, 94, 99, .7);
         position: absolute;
         bottom: 30px;
-        right: 150px;
-        font-size: 0.9em;
+        right: 150px;*/
+        height: 40%;
+        width: 100%;
+        /*font-size: 0.9em;*/
+        float: right;
+        margin: 0 auto;
     }
 
     #group-ethos {
