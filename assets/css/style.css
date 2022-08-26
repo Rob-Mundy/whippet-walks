@@ -557,18 +557,26 @@ aside a {
 
 /* for screens of size 1100px wide and under*/
 @media screen and (max-width: 1100px) {
-    #logo, #menu ul {
+    #tips-main {
+        margin-top: 10px;
+    }
+
+    .video-wrapper iframe {
+        width: 300px;
+    }
+}
+
+/* for screens of size 770px wide and under*/
+@media screen and (max-width: 770px) {
+        #logo, #menu ul {
         clear: both;
         float: none;
         margin: 0 auto;
         line-height: 50px;
     }
-}
-
-/* for screens of size 650px wide and under*/
-@media screen and (max-width: 650px) {
+    
     #cover-text {
-        font-size: 1.1rem;
+        font-size: 1.25rem;
     }
 
     #events div {
@@ -576,6 +584,13 @@ aside a {
         float:none;
         margin: 0 auto;
         padding: 12px;
+    }
+}
+
+/* for screens of size 525px wide and under*/
+@media screen and (max-width: 525px) {
+    #cover-text {
+        font-size: 100%;
     }
 }
 
