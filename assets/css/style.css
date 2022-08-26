@@ -523,6 +523,13 @@ aside a {
         height: auto;
         margin: 0 auto;
     }
+
+    #group-ethos > div {
+        clear:both;
+        width: 65%;
+        float: none;
+        margin: 0 auto;
+    }
     
     #events {
         width: 65%;
