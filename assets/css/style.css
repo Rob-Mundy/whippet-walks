@@ -296,7 +296,7 @@ hr {
 }
 
 #events-title {
-    margin-bottom: 24px;
+    /*margin-bottom: 24px;*/
     text-align: center;
     font-size: 230%;
 }
@@ -512,7 +512,7 @@ aside a {
 
     #hero-outer {
         width: 65%;
-        height:auto;
+        /*height:auto;*/
         margin: 0 auto;
         display: block;
     }
@@ -563,4 +563,9 @@ aside a {
         margin: 0 auto;
         line-height: 50px;
     }
+}
+
+/* for screens of size 900px wide and under*/
+@media screen and (max-width: 900px) {
+
 }
