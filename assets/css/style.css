@@ -499,7 +499,7 @@ aside a {
 /* media queries */
 
 @media screen and (max-width: 1200px) {
-    header {
+    header, footer {
         width: 65%;
         margin: 0 auto;
         position: relative;
@@ -508,18 +508,14 @@ aside a {
     #hero-outer {
         width: 65%;
         margin: 0 auto;
+        display: block;
     }
     
     #hero-image, #cover-text {
-        /*background-color: rgba(64, 94, 99, .7);
-        position: absolute;
-        bottom: 30px;
-        right: 150px;*/
         height: 40%;
         width: 100%;
-        /*font-size: 0.9em;*/
-        float: right;
         margin: 0 auto;
+        padding: 0;
     }
 
     #group-ethos {
@@ -532,10 +528,16 @@ aside a {
         width: 65%;
         height: auto;
         margin: 0 auto;
+        display: block;
     }
     
     #events div {
         width: 65%;
+        float:none;
+        margin: 0 auto;
     }
 
+    footer {
+        width: 65%;
+    }
 }
