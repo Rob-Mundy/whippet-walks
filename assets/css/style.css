@@ -473,7 +473,7 @@ article p {
     float: left;
 }
 
-aside {
+#aside-nav-sidebar {
     width: 25%;
     float: right;
     padding: 24px;
@@ -481,18 +481,18 @@ aside {
     /*background-color: #A3BAB7;*/
 }
 
-aside h3 {
+#aside-nav-sidebar h3 {
     line-height: 20px;
     padding-bottom: 5px;
 }
 
-aside ul li {
+#aside-nav-sidebar ul li {
     float: left;
     list-style-type: none;
     margin-bottom: 24px;
 }
 
-aside a {
+#aside-nav-sidebar a {
     text-decoration: none;
     color: inherit;
 }
@@ -572,6 +572,11 @@ aside a {
         width: 300px;
     }
 }
+
+/* for screens of size 1100px wide and under*/
+@media screen and (max-width: 1000px) {
+
+
 
 /* for screens of size 770px wide and under*/
 @media screen and (max-width: 770px) {
