@@ -10,17 +10,14 @@ body {
     font-family: 'Poppins', sans-serif;
     font-weight: 300;
     color: #054E57;
-    /* background-color: #F6F6F6; */
 }
 
 /* headings and logo */
 
 header {
-    /*border-bottom: 1px solid #054E57;*/
     width: 100%;
     background: #fff;
     position: absolute;
-    /*z-index: 2;*/
 }
 
 header>a {
@@ -105,33 +102,12 @@ h2 {
     border-color: #fff;
     float: left;
     box-sizing: border-box;
-
-    /* animates zoom effect  upon page refresh 
-    animation-name: hero-zoom;
-    animation-duration: 3s;
-    animation-fill-mode: forwards;
-    */
-
 }
 
-/* creates level of zoom effect for hero image 
-
-@keyframes hero-zoom {
-    from {
-        transform: scale(0.9);
-    }
-    to {
-        transform: scale(1);
-    }
-}
-*/
 #cover-text {
     font-size: 1.5rem;
     font-family: 'Poppins', sans-serif;
-    /* text-transform: lowercase; */
     letter-spacing: 2px;
-
-    /* sets dimensions of div container */
     width: 45%;
     height: 600px;
     margin: 60px 30px 30px 30px;
@@ -169,7 +145,6 @@ h2 {
 }
 
 .sign-up-link-button>a>h3 {
-    /*margin: 0 auto;*/
     display: table-cell;
     text-align: center;
     vertical-align: middle;
@@ -183,7 +158,6 @@ h2 {
     margin-bottom: 24px;
     font-size: 230%;
     text-align: center;
-    /*padding-top: 30px;*/
 }
 
 #group-ethos {
@@ -197,21 +171,18 @@ h2 {
 }
 
 #left-about {
-    /*margin: 24px 0px 0px 24px;*/
     padding: 24px;
     width: 33%;
     float: left;
 }
 
 #right-about {
-    /*margin: 24px 0px 0px 24px;*/
     padding: 24px;
     width: 33%;
     float: right;
 }
 
 #center-about {
-    /*margin: 24px 0px 0px 24px;*/
     padding: 24px;
     width: 33%;
     margin: 0 auto;
@@ -225,35 +196,20 @@ hr {
 
 .left-about-heading {
     width: 60%;
-    /*line-height: 20px;*/
     clear: both;
     margin: 0 auto;
 }
 
-/*
-.left-about-heading h2, .left-about-heading p {
-    text-align: center;
-}
-*/
-
 .right-about-heading {
     width: 60%;
-    /*line-height: 20px;*/
     clear: both;
     margin: 0 auto;
 }
 
 .center-about-heading {
     width: 60%;
-    /*line-height: 20px;*/
     margin: 0 auto;
 }
-
-/*
-.right-about-heading h2, .right-about-heading p {
-    text-align: center;
-}
-*/
 
 .circle-container {
     width: 150px;
@@ -431,10 +387,7 @@ footer a {
 #tips-main {
     width: 60%;
     margin: 75px 25px 50px 25px;
-    /*overflow: hidden;
-    position: relative;*/
     display: inline-block;
-    /*box-sizing: border-box;*/
 }
 
 #tips-main h2 {
@@ -442,7 +395,6 @@ footer a {
     float: left;
     font-size: 230%;
     margin-left: 55px;
-    /*padding: 12px;*/
 }
 
 #tips-main p {
@@ -459,7 +411,6 @@ article {
 
 article a {
     font-size: 1.1em;
-    /*letter-spacing: 2px;*/
     text-decoration: none;
     color: #054E57;
 }
@@ -478,7 +429,6 @@ article p {
     float: right;
     padding: 24px;
     margin: 75px 25px 50px 25px;
-    /*background-color: #A3BAB7;*/
 }
 
 #aside-nav-sidebar h3 {
@@ -511,14 +461,12 @@ article p {
 
     header,
     footer {
-        /*width: 90%;*/
         margin: 0 auto;
         position: relative;
     }
 
     #hero-outer {
         width: 90%;
-        /*height:auto;*/
         margin: 0 auto;
         display: block;
     }
@@ -573,10 +521,12 @@ article p {
     }
 }
 
-/* for screens of size 1100px wide and under*/
+/* for screens of size 1000px wide and under*/
 @media screen and (max-width: 1000px) {
-
-
+    #aside-nav-sidebar {
+        display: none;
+    }
+}
 
 /* for screens of size 770px wide and under*/
 @media screen and (max-width: 770px) {
@@ -585,7 +535,6 @@ article p {
     #menu {
         clear: both;
         float: none;
-        /*margin: 0 auto;*/
         line-height: 50px;
     }
 
