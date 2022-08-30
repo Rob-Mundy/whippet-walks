@@ -124,9 +124,9 @@ h2 {
     height: 40px;
     border-radius: 4px;
     color: #003942;
-    background-color: #B6936F;
+    background-color: #054E57;
     display: block;
-    border: 1px solid #405E63;
+    border: 1px solid #054E57;
     float: left;
 }
 
@@ -366,10 +366,10 @@ footer a {
     height: 40px;
     margin-top: 20px;
     border-radius: 4px;
-    color: #003942;
-    background-color: #B6936F;
+    color: #f6f6f6;
+    background-color: #054E57;
     display: block;
-    border: 1px solid #405E63;
+    border: 1px solid #054E57;
     float: left;
     font-size: 1.1em;
     text-transform: lowercase;
@@ -377,7 +377,6 @@ footer a {
 
 .sign-up-button:hover {
     background-color: #003942;
-    color: #f6f6f6;
     border-color: #f6f6f6;
 }
 
