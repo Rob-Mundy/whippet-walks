@@ -553,7 +553,7 @@ article p {
     }
 
     #tips-main {
-        margin-top: 150px;
+        margin-top: 125px;
     }
 }
 
@@ -572,5 +572,9 @@ article p {
 @media screen and (max-width: 400px) {
     #events iframe {
         display: none;
+    }
+
+    #tips-main {
+        margin-top: 150px;
     }
 }
