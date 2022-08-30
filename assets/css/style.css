@@ -534,6 +534,7 @@ article p {
         clear: both;
         float: none;
         line-height: 50px;
+        margin-top: 6px;
     }
 
     #cover-text {
@@ -552,6 +553,10 @@ article p {
 @media screen and (max-width: 525px) {
     #cover-text {
         font-size: 100%;
+    }
+
+    #menu ul {
+        font-size: 90%;
     }
 }
 
