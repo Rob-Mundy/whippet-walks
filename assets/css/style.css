@@ -506,13 +506,17 @@ article p {
     footer {
         width: 90%;
     }
+
+    #tips-header {
+        position: absolute;
+    }
 }
 
 /* for screens of size 1100px wide and under*/
 @media screen and (max-width: 1100px) {
-    #tips-main {
+    /*#tips-main {
         margin-top: 10px;
-    }
+    }*/
 
     .video-wrapper iframe {
         width: 300px;
@@ -546,6 +550,10 @@ article p {
         float: none;
         margin: 0 auto;
         padding: 12px;
+    }
+
+    #tips-main {
+        margin-top: 150px;
     }
 }
 
