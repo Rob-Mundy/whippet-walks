@@ -384,7 +384,7 @@ footer a {
 
 #tips-main {
     width: 60%;
-    margin: 75px 25px 50px 25px;
+    margin: 75px 25px 50px 30px;
     display: inline-block;
 }
 
@@ -392,13 +392,14 @@ footer a {
     width: 100%;
     float: left;
     font-size: 230%;
-    margin-left: 55px;
+    /*margin-left: 55px;*/
 }
 
 #tips-main > p {
     float: left;
     width: 100%;
     padding: 12px;
+    text-align: justify;
 }
 
 #tips-main p {
@@ -513,7 +514,7 @@ article p {
         width: 90%;
     }
 
-    #tips-header {
+    .header-absolute {
         position: absolute;
     }
 }
