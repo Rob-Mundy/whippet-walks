@@ -94,7 +94,7 @@ h2 {
 #hero-image {
     height: 550px;
     width: 45%;
-    background: url('../images/16x9\ depositphotos_223407470-stock-photo-two-white-whippets-playing-outdoor.jpg') no-repeat center center;
+    background: url('../images/__Two_White_Whippets_16x9.jpg') no-repeat center center;
     background-size: cover;
     margin: 30px 0px 30px 60px;
     padding: 30px;
@@ -223,21 +223,21 @@ hr {
 }
 
 #left-cover-background {
-    background: url('../images/square\ depositphotos_223407512-stock-photo-two-white-whippets-playing-outdoor.jpg') no-repeat center center;
+    background: url('../images/__Two_Whippets_Running_With_A_Stick_Square.jpg') no-repeat center center;
     height: 100%;
     border-radius: 50%;
     background-size: cover;
 }
 
 #right-cover-background {
-    background: url('../images/square\ depositphotos_6534897-stock-photo-whippet-dog-and-frisbee.jpg') no-repeat center center;
+    background: url('../images/__Whippet_Catching_A_Frisbee_Square.jpg') no-repeat center center;
     height: 100%;
     border-radius: 50%;
     background-size: cover;
 }
 
 #center-cover-background {
-    background: url('../images/square\ depositphotos_29852595-stock-photo-group-dog.jpg') no-repeat center center;
+    background: url('../images/__Four_Enquisitive_Whippets_Square.jpg') no-repeat center center;
     height: 100%;
     border-radius: 50%;
     background-size: cover;
@@ -327,7 +327,7 @@ footer a {
 /* sign up page */
 
 .form-section {
-    background: url('../images/16x9\ depositphotos_156531312-stock-photo-whippet-dog-portrait-in-nature.jpg');
+    background: url('../images/__Whippet_At_The_Top_Of_A_Hill_16x9.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
