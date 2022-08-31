@@ -12,6 +12,12 @@ Website users will be able to find out about the group, sign up via a form that 
 
 + ## Navigation
 
+    + Found at the top of each of the website's pages in a consistent location.
+
+    + Contains the group's name "Whippet Walks" in the left-hand corner that links to the top of the home page.
+
+    + The right-hand side displays links to the site's three pages: Home, Training Tips and Sign Up. 
+
 + ## The Header
 
 + ## The "Hero Image" main section 
@@ -25,6 +31,16 @@ Website users will be able to find out about the group, sign up via a form that 
 + ## The Training Tips page
 
 + ## The sign up page
+
+# UX Design
+
++ ## Color Palette
+
++ ## Fonts
+
+    + The font used for the company name and subsequent h1 and h2 headings, EB Garamond, has been chosen for its organic structure that is fitting for a website about animals and the outdoors. 
+
+    + Complimentary font Poppins has been chosen for use in sub-headings and paragraphs throughout for its simplistic style that improves readability.
 
 # Testing
 
