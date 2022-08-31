@@ -303,14 +303,32 @@ hr {
 /* footer */
 
 footer {
-    height: 150px;
+    height: 300px;
     width: 100%;
+    box-sizing: border-box;
     text-align: center;
 }
 
 footer a {
     text-decoration: none;
     color: inherit;
+}
+
+.contact-us {
+    width: 65%;
+    margin: 0 auto;
+    margin-top: 48px;
+}
+
+.contact-us h2 {
+    font-size: 230%;
+    padding-bottom: 12px;
+}
+
+.contact-us p {
+    padding: 12px 24px;
+    font-size: 1.1em;
+    line-height: 26px;
 }
 
 .social-networks li {
@@ -321,7 +339,7 @@ footer a {
 .social-networks i {
     font-size: 1.75em;
     margin: 1px;
-    padding: 5%;
+    padding: 3%;
 }
 
 /* sign up page */
@@ -392,7 +410,6 @@ footer a {
     width: 100%;
     float: left;
     font-size: 230%;
-    /*margin-left: 55px;*/
 }
 
 #tips-main>p {
@@ -574,6 +591,10 @@ article p {
     .signup-form {
         margin: 150px 0 0 30%;
         font-size: 90%;
+    }
+
+    .contact-us h2 {
+        font-size: 170%;
     }
 
     .social-networks i {
