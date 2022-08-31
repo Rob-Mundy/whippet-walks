@@ -571,6 +571,11 @@ article p {
         margin-top: 120px;
     }
 
+    .signup-form {
+        margin: 150px 0 0 30%;
+        font-size: 90%;
+    }
+
     .social-networks i {
         font-size: 1.25em;
     }
