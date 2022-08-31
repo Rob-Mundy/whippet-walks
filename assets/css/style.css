@@ -555,24 +555,45 @@ article p {
         padding: 12px;
     }
 
+    #welcome, #events-title {
+        font-size: 170%;
+    }
+
     #tips-main {
         margin-top: 120px;
     }
+
+    .social-networks i {
+        font-size: 1.25em;
 }
 
 /* for screens of size 525px wide and under*/
 @media screen and (max-width: 525px) {
+    #menu ul {
+        font-size: 90%;
+    }
+    
     #cover-text {
         font-size: 100%;
     }
 
-    #menu ul {
+    #welcome, #events-title {
+        font-size: 150%;
+    }
+
+    #group-ethos div, #events div {
         font-size: 90%;
     }
 }
 
 /* for screens of size 400px wide and under*/
 @media screen and (max-width: 400px) {
+    #menu ul {
+        margin-left: 5%;
+        letter-spacing: 1px;
+        font-size: 70%;
+    }
+    
     #events iframe {
         display: none;
     }
