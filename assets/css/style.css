@@ -555,7 +555,8 @@ article p {
         padding: 12px;
     }
 
-    #welcome, #events-title {
+    #welcome,
+    #events-title {
         font-size: 170%;
     }
 
@@ -565,6 +566,7 @@ article p {
 
     .social-networks i {
         font-size: 1.25em;
+    }
 }
 
 /* for screens of size 525px wide and under*/
@@ -572,16 +574,18 @@ article p {
     #menu ul {
         font-size: 90%;
     }
-    
+
     #cover-text {
         font-size: 100%;
     }
 
-    #welcome, #events-title {
+    #welcome,
+    #events-title {
         font-size: 150%;
     }
 
-    #group-ethos div, #events div {
+    #group-ethos div,
+    #events div {
         font-size: 90%;
     }
 }
@@ -593,7 +597,7 @@ article p {
         letter-spacing: 1px;
         font-size: 70%;
     }
-    
+
     #events iframe {
         display: none;
     }
