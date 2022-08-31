@@ -28,6 +28,12 @@ Website users will be able to find out about the group, sign up via a form that 
 
 + ## The Footer
 
+    + Features a "Contact" section that encourages users to get in touch via telephone and/or email.
+
+    + As an alternative means of contact, the footer also includes five icons that serve as links to the various social media sites where the group *could* host content, arranged in order of popularity: Facebook, YouTube, Instagram, TikTok, Twitter.  
+
+    + The background and font colours mimic that of the header to bookend the page in a consistent fashion.
+
 + ## The Training Tips page
 
 + ## The sign up page
