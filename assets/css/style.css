@@ -94,7 +94,7 @@ h2 {
 #hero-image {
     height: 550px;
     width: 45%;
-    background: url('/assets/images/___Two_White_Whippets_16x9\ Resized.jpg') no-repeat center center;
+    background: url('./assets/images/___Two_White_Whippets_16x9\ Resized.jpg') no-repeat center center;
     background-size: cover;
     margin: 36px 0px 36px 60px;
     padding: 36px;
