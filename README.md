@@ -34,9 +34,11 @@ Website users will be able to find out about the group, sign up via a form that 
 
     + The background and font colours mimic that of the header to bookend the page in a consistent fashion.
 
-+ ## The Training Tips page
++ # The Training Tips page
 
-+ ## The sign up page
+    + This page has a blog-like design
+
++ # The Sign Up page
 
 # UX Design
 
@@ -46,7 +48,9 @@ Website users will be able to find out about the group, sign up via a form that 
 
     + The font used for the company name and subsequent h1 and h2 headings, EB Garamond, has been chosen for its organic structure that is fitting for a website about animals and the outdoors. 
 
-    + Complimentary font Poppins has been chosen for use in sub-headings and paragraphs throughout for its simplistic style that improves readability.
+    + Complimentary font Poppins has been chosen for use in sub-headings and paragraphs for its simplistic style that improves readability.
+
++ ## Media Queries
 
 # Testing
 
