@@ -79,7 +79,7 @@ h2 {
 #hero-outer {
     height: 600px;
     width: 100%;
-    margin: 72px 0px 48px 24px;
+    margin: 72px 0px 48px 0px;
     overflow: hidden;
     position: relative;
     display: inline-block;
