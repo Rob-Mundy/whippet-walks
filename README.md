@@ -110,9 +110,12 @@ Website users will be able to find out about the group, sign up via a form that 
 The site has been deployed to Github Pages via the following process:
 
 + Navigate to settings from within Whippet Walks Github project
+
 + Select Pages from the Code and automation section
+
 + Under Build and deployment, select the source as "Deploy from a branch", then select "main" and "/(root)" from the Branch drop-down menus
-+ A link to the live site is then made available upon page refresh 
+
++ A link to the live site is then made available upon page refresh
 
 # Credits
 
@@ -128,6 +131,14 @@ The site has been deployed to Github Pages via the following process:
 
 + The embedded YouTube videos on the tips page are all courtesy of [Zak George’s Dog Training Revolution](https://www.youtube.com/c/zakgeorge). 
 
-+ The thumbnails within the sidebar of the tips page are all screen-grab edits of the embedded videos.
++ The four thumbnails within the sidebar of the tips page are all screen-grabs of the embedded videos that were edited via the Windows Snipping tool.
 
-+ The three maps within the events section of the home page are embedded via GoogleMaps.
++ The three maps within the events section of the home page were embedded via GoogleMaps using the following process:
+
+    + Enter place name into search bar and select appropriate location
+
+    + Click "Share" and then select "Embed a map"
+
+    + Highlight the iframe link or click "COPY HTML" and add to project
+
+All pictures were cropped to suitable sizes in MSPaint: 16x9 for long images, square for any that were destined to fit within a circular container.  Their resolutions were then reduced, and finally the files were converted to webp format in [ezgif.com](https://ezgif.com/jpg-to-webp) to improve loading times.
