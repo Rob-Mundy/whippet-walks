@@ -78,6 +78,18 @@ Website users will be able to find out about the group, sign up via a form that 
 
 # Validator Testing
 
++ ## HTML
+
+    + All pages passed through the offical W3C Validator without errors.
+
++ ## CSS
+
+    + All pages passed through the offical W3C Jigsaw Validator without errors.
+
++ ## Accessibility 
+
+    + All pages achieved the maximum Dev Tools Lighthouse accessibility score of 100 on desktop and mobile, demonstrating that the chosen colours and fonts are easily legible.
+      
 # Deployment
 
 ## Github Pages

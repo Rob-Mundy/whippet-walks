@@ -94,7 +94,7 @@ h2 {
 #hero-image { 
     height: 550px;
     width: 45%;
-    background: url('../images/___Two_White_Whippets_16x9 Resized.jpg') no-repeat center center;
+    background: url('../images/two_white_whippets_in_a_forest.webp') no-repeat center center;
     background-size: cover;
     margin: 36px 0px 36px 60px;
     padding: 36px;
@@ -223,21 +223,21 @@ hr {
 }
 
 #left-cover-background {
-    background: url('../images/___Two_Whippets_Running_With_A_Stick_Square\ Resized.jpg') no-repeat center center;
+    background: url('../images/two_whippets_running_with_a_stick.webp') no-repeat center center;
     height: 100%;
     border-radius: 50%;
     background-size: cover;
 }
 
 #right-cover-background {
-    background: url('../images/___Whippet_Catching_A_Frisbee_Square\ Resized.jpg') no-repeat center center;
+    background: url('../images/whippet_catching_a_frisbee.webp') no-repeat center center;
     height: 100%;
     border-radius: 50%;
     background-size: cover;
 }
 
 #center-cover-background {
-    background: url('../images/___Four_Enquisitive_Whippets_Square\ Resized.jpg') no-repeat center center;
+    background: url('../images/four_enquisitive_whippets.webp') no-repeat center center;
     height: 100%;
     border-radius: 50%;
     background-size: cover;
@@ -344,7 +344,7 @@ footer a {
 /* sign up page */
 
 .form-section {
-    background: url('../images/___Whippet_At_The_Top_Of_A_Hill_16x9\ Resized.jpg');
+    background: url('../images/whippet_looking_out_over_a_hill.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
