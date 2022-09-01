@@ -501,8 +501,6 @@ article p {
     }
 
     #group-ethos {
-        /*width: 90%;
-        margin: 0 auto;*/
         height: auto;
     }
 
@@ -514,8 +512,6 @@ article p {
     }
 
     #events {
-        /*width: 90%;
-        margin: 0 auto;*/
         height: auto;
         display: block;
     }
@@ -575,19 +571,12 @@ article p {
         clear: both;
         float: none;
         line-height: 48px;
-        margin-top: 6px;
+        margin: 6px;
     }
 
     #cover-text {
         font-size: 1.25rem;
     }
-
-    /*#events div {
-        width: 90%;
-        float: none;
-        margin: 0 auto;
-        padding: 12px;
-    }*/
 
     #welcome,
     #events-title {
