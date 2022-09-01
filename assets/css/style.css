@@ -549,9 +549,20 @@ article p {
     }
 
     #tips-main {
-        width: 90%;
-        padding-right: 24px;
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 72px;
         box-sizing: border-box;
+        padding: 0px 36px 36px 36px;
+    }
+
+    #tips-main>p {
+        padding: 0;
+    }
+
+    #tips-main article {
+        padding: 12px 0px;
+        width: 100%;
     }
 
 }
@@ -624,10 +635,17 @@ article p {
 
 /* for screens of size 400px wide and under*/
 @media screen and (max-width: 400px) {
+
+    #logo,
+    #menu {
+        line-height: 36px;
+        font-size: 200%;
+    }
+
     #menu ul {
         margin-left: 5%;
         letter-spacing: 1px;
-        font-size: 70%;
+        font-size: 50%;
     }
 
     #events iframe {
@@ -638,6 +656,7 @@ article p {
         font-size: 175%;
     }
 
+    .video-wrapper,
     .video-wrapper iframe {
         width: 275px;
     }
