@@ -56,9 +56,7 @@ Website users will be able to find out about the group, sign up via a form that 
 
     + The header and footer are consistent with the homepage. 
 
-    + The form captures and submits the information in the desired manner as evidenced by this submission receipt:
-
-    ![form_submission_success](./assets/images/form_submission_success.png)
+    + The form captures and submits the information in the desired manner (see testing section for evidence).
 
 # UX Design
 
@@ -73,6 +71,16 @@ Website users will be able to find out about the group, sign up via a form that 
 + ## Media Queries
 
 # Testing
+
++ I have tested that the entire site works as expected across a number of commonly used browsers: Chrome (desktop), Edge, Firefox, Chrome (Android).  I do not have access to an Apple device in order to check its compatability with the Safari browser.
+
++ The website has been tested in Chrome's DevTools. I can confirm it is responsive, performs well, and functions on standard screen sizes down to the "Mobile S - 320px" setting.
+
++ The navigation section, header, footer, headings, and subheadings are all easily legible and easy to understand.
+
++ The submission receipt below demonstrates that the form works as expected:
+
+    ![form_submission_success](./assets/images/form_submission_success.png)
 
 # Bugs
 
