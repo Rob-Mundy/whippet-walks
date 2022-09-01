@@ -501,9 +501,9 @@ article p {
     }
 
     #group-ethos {
-        width: 90%;
+        /*width: 90%;
+        margin: 0 auto;*/
         height: auto;
-        margin: 0 auto;
     }
 
     #group-ethos>div {
@@ -514,9 +514,9 @@ article p {
     }
 
     #events {
-        width: 90%;
+       /*width: 90%;
+        margin: 0 auto;*/
         height: auto;
-        margin: 0 auto;
         display: block;
     }
 
@@ -582,12 +582,12 @@ article p {
         font-size: 1.25rem;
     }
 
-    #events div {
+    /*#events div {
         width: 90%;
         float: none;
         margin: 0 auto;
         padding: 12px;
-    }
+    }*/
 
     #welcome,
     #events-title {
@@ -639,7 +639,7 @@ article p {
     #logo,
     #menu {
         line-height: 36px;
-        font-size: 200%;
+        font-size: 175%;
     }
 
     #menu ul {
