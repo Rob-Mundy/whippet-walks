@@ -36,9 +36,25 @@ Website users will be able to find out about the group, sign up via a form that 
 
 + # The Training Tips page
 
-    + This page has a blog-like design
+    + This page concerns itself with one goal which is to provide related training content that would be sueful to users prior to attending their first pack walk event.  
+
+    + It has a unfussy, blog-like format that is based around individual articles containing a brief paragraph of supporting text along with embedded YouTube videos by Zak George's Dog Training Revolution. The stark design was chosen to improve the page's performance given that it contains many videos that can be slow to load.
+
+    + An additional navigation sidebar taking the form of an aside guides users to all of the videos on the page via clickable hyperlinks within both the text and videos. There are only 4 videos at present to demonstrate what the page would look like, but a more thoroughly designed site would ideally contain a sticky, scrollable nav sidebar with lots of content.  
+
+    + The header and footer are consistent with the home page.
 
 + # The Sign Up page
+
+    + The sign up page's purpose is to allow users to easily sign up to the Whippet Walk group in their local area.
+
+    + The page is easily found via either the main navigation bar within the header or via a "Sign Up >" link in the hero section of the homepage.  
+
+    + The page contains an evocative hero image of a whippet looking out over beautiful countryside, which is designed to entice the user to sign up.  The image is consistent with the website's colour scheme.
+
+    + The form collects the user's first name, last name, email address, and password (between 8 and 20 characters).  It also requires the selection of the user's primary location via a radio button.
+
+    + The header and footer are consistent with the homepage. 
 
 # UX Design
 
