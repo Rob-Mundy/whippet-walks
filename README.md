@@ -4,7 +4,7 @@
 
 The Whippet Walks website is a landing page for owners of whippets and sighthound-breed dogs that are interested in meeting up for organised group or "pack" walks in the Norfolk-based districts of Norwich, North Norfolk and Broadlands.
 
-Website users will be able to find out about the group, sign up via a form that is linked via the home page or nav menu, locate the events via embedded Google Maps, link to associated social media sites, and access training videos on a blog-style tips page to ensure their dogs' readiness to join.
+Website users will be able to find out about the group, sign up via a form that is linked via the home page or nav menu, locate the events via embedded Google Maps, link to associated social media sites, and access training videos on a blog-style page to ensure their dogs' readiness to join.
 
 ![am_i_responsive_home_page_results](./assets/images/am_i_responsive_home_page.png)
 
@@ -12,15 +12,23 @@ Website users will be able to find out about the group, sign up via a form that 
 
 + ## Navigation
 
-    + Found at the top of each of the website's pages in a consistent location.
+    + The navigation section is found at the top of each of the website's pages in a consistent location.
 
-    + Contains the group's name "Whippet Walks" in the left-hand corner that links to the top of the home page.
+    + It contains the group's name "Whippet Walks" in the left-hand corner, which links to the top of the home page.
 
     + The right-hand side displays links to the site's three pages: Home, Training Tips and Sign Up.   
 
 + ## The "Hero Image" header section
 
-    + The "Hero Image" header section includes a concise description of what the group is  
+    + The "Hero Image" header section includes a succinct description of what the website offers: "whippet & sighthound organised pack walks".
+
+    + It details that the areas within which the group operates are Norwich, North Norfolk & Broadlands Districts.
+
+    + It also infers that the group's target dog demographic is not limited by age or temperament; just breed i.e. sighthound.
+
+    + An accompanying image containing a pair of white whippets is appropriate for the color scheme and content.
+
+    + A button detailing the words "Sign up" rounds off the section, providing an easy way for the user to navigate to the sign up form via the embedded hyperlink.
 
 + ## The group ethos section
 
@@ -34,7 +42,7 @@ Website users will be able to find out about the group, sign up via a form that 
 
     + The background and font colours mimic that of the header to bookend the page in a consistent fashion.
 
-+ # The Training Tips page
++ # The Training page
 
     + This page concerns itself with one goal which is to provide related training content that would be sueful to users prior to attending their first pack walk event.  
 
