@@ -214,7 +214,7 @@ hr {
 .circle-container {
     width: 150px;
     height: 150px;
-    padding: 36px;
+    padding: 36px 0px;
     border-style: solid;
     border-color: #A3BAB7;
     border-width: 1px;
@@ -508,13 +508,13 @@ article p {
 
     #group-ethos>div {
         clear: both;
-        width: 60%;
+        width: 70%;
         float: none;
         margin: 0 auto;
     }
 
     #events {
-       /*width: 90%;
+        /*width: 90%;
         margin: 0 auto;*/
         height: auto;
         display: block;
@@ -633,8 +633,8 @@ article p {
     }
 }
 
-/* for screens of size 400px wide and under*/
-@media screen and (max-width: 400px) {
+/* for screens of size 450px wide and under*/
+@media screen and (max-width: 450px) {
 
     #logo,
     #menu {
@@ -646,6 +646,18 @@ article p {
         margin-left: 5%;
         letter-spacing: 1px;
         font-size: 50%;
+    }
+
+    #events div {
+        font-size: 80%;
+    }
+
+    #events div h2 {
+        padding: 0px 6px 12px 6px;
+    }
+
+    #events ul {
+        padding: 6px 12px;
     }
 
     #events iframe {
