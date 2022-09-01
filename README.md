@@ -32,7 +32,15 @@ Website users will be able to find out about the group, sign up via a form that 
 
 + ## The group ethos section
 
+    + The ethos section provides the user with three reasons why they should join the group, all of which are linked to their dog's wellbeing.
+
+    + Images of dogs enjoying themselves, mostly in packs, have been included to further encourage the user to sign up to the group.
+
+    + All images are in-keeping with the website's colour scheme.   
+
 + ## The events section (upcoming walks)
+
+    + 
 
 + ## The Footer
 
