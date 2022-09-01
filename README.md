@@ -105,6 +105,8 @@ Website users will be able to find out about the group, sign up via a form that 
 
 # Deployment
 
+## Github Pages
+
 The site has been deployed to Github Pages via the following process:
 
 + Navigate to settings from within Whippet Walks Github project
@@ -112,6 +114,20 @@ The site has been deployed to Github Pages via the following process:
 + Under Build and deployment, select the source as "Deploy from a branch", then select "main" and "/(root)" from the Branch drop-down menus
 + A link to the live site is then made available upon page refresh 
 
-## Github Pages
-
 # Credits
+
+## Content
+
+## Media
+
++ The home page hero image was sourced from [depositphotos.com](https://depositphotos.com/223407470/stock-photo-two-white-whippets-playing-outdoor.html).
+
++ The three group ethos section images were also sourced from depositphotos.com [here](https://depositphotos.com/6534897/stock-photo-whippet-dog-and-frisbee.html), [here](https://depositphotos.com/29852595/stock-photo-group-dog.html), and [here](https://depositphotos.com/223407512/stock-photo-two-white-whippets-playing-outdoor.html).
+
++ The sign up page background image was sourced from [depositphotos.com](https://depositphotos.com/156531312/stock-photo-whippet-dog-portrait-in-nature.html).
+
++ The embedded YouTube videos on the tips page are all courtesy of [Zak George’s Dog Training Revolution](https://www.youtube.com/c/zakgeorge). 
+
++ The thumbnails within the sidebar of the tips page are all screen-grab edits of the embedded videos.
+
++ The three maps within the events section of the home page are embedded via GoogleMaps.
