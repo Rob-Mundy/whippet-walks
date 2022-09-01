@@ -16,11 +16,11 @@ Website users will be able to find out about the group, sign up via a form that 
 
     + Contains the group's name "Whippet Walks" in the left-hand corner that links to the top of the home page.
 
-    + The right-hand side displays links to the site's three pages: Home, Training Tips and Sign Up. 
+    + The right-hand side displays links to the site's three pages: Home, Training Tips and Sign Up.   
 
-+ ## The Header
++ ## The "Hero Image" header section
 
-+ ## The "Hero Image" main section 
+    + The "Hero Image" header section includes a concise description of what the group is  
 
 + ## The group ethos section
 
@@ -28,7 +28,7 @@ Website users will be able to find out about the group, sign up via a form that 
 
 + ## The Footer
 
-    + Features a "Contact" section that encourages users to get in touch via telephone and/or email.
+    + The Footer features a "Contact" section that encourages users to get in touch via telephone and/or email.
 
     + As an alternative means of contact, the footer also includes five icons that serve as links to the various social media sites where the group *could* host content, arranged in order of popularity: Facebook, YouTube, Instagram, TikTok, Twitter.  
 
