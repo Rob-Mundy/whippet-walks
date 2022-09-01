@@ -40,7 +40,11 @@ Website users will be able to find out about the group, sign up via a form that 
 
 + ## The events section (upcoming walks)
 
-    + 
+    + The events section provides an insight into what walks are taking place in the near future. The event tiles have been designed to be brief but comprehensive.
+
+    + The individual events contain location names, days, times, important details about the walk distance, dog age restrictions, terrain type, and footwear requirements.
+
+    + On larger screens Google Maps are embedded at the bottom of the tiles, providing the user with the exact location of each walk.
 
 + ## The Footer
 
