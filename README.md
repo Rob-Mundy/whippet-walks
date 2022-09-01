@@ -56,6 +56,10 @@ Website users will be able to find out about the group, sign up via a form that 
 
     + The header and footer are consistent with the homepage. 
 
+    + The form captures and submits the information in the desired manner as evidenced by this submission receipt:
+
+    ![form_submission_success](./assets/images/form_submission_success.png)
+
 # UX Design
 
 + ## Color Palette
