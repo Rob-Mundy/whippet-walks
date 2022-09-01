@@ -89,7 +89,13 @@ Website users will be able to find out about the group, sign up via a form that 
 + ## Accessibility 
 
     + All pages achieved the maximum Dev Tools Lighthouse accessibility score of 100 on desktop and mobile, demonstrating that the chosen colours and fonts are easily legible.
-      
+    <br>
+    <br>
+    Desktop:
+    ![home_page_lighthouse_desktop](./assets/images/home_page_lighthouse_desktop.png)  
+    Mobile:  
+    ![home_page_lighthouse_desktop](./assets/images/home_page_lighthouse_mobile.png)
+
 # Deployment
 
 ## Github Pages
