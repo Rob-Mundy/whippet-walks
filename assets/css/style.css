@@ -91,7 +91,7 @@ h2 {
     color: #054E57
 }
 
-#hero-image { 
+#hero-image {
     height: 550px;
     width: 45%;
     background: url('../images/two_white_whippets_in_a_forest.webp') no-repeat center center;
@@ -636,5 +636,9 @@ article p {
 
     #tips-main h2 {
         font-size: 175%;
+    }
+
+    .video-wrapper iframe {
+        width: 275px;
     }
 }
