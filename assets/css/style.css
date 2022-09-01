@@ -640,6 +640,8 @@ article p {
     #events div {
         font-size: 80%;
         width: 80%;
+        height: 400px;
+        overflow: hidden;
     }
 
     #events div h2 {
