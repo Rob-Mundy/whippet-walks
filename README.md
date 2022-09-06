@@ -4,7 +4,7 @@
 
 The Whippet Walks website is a landing page for owners of whippets & sighthound-breed dogs that are interested in meeting up for organised pack (group) walks in the Norfolk-based districts of Norwich, North Norfolk and Broadlands.
 
-Website users can find out about the group, sign up via a form, locate the events via embedded Google Maps, navigate to associated social media sites, and access training videos on a blog-style page to ensure their dogs' readiness to join.
+Website users can find out about the group, sign up via a form, locate upcoming events via embedded Google Maps, navigate to associated social media sites, and access training videos on a blog-style page to ensure their dogs' readiness to join.
 
 ![am_i_responsive_home_page_results](./assets/images/am_i_responsive_home_page.png)
 
@@ -24,7 +24,7 @@ Website users can find out about the group, sign up via a form, locate the event
 
     + It details that the group operates in Norwich, North Norfolk & Broadlands Districts.
 
-    + It also infers that the group's target dog demographic isn't limited by age or temperament, only its breed.
+    + It infers that the group's target dog demographic isn't limited by age or temperament, only by breed.
 
     + An accompanying image containing a pair of white whippets is appropriate for the color scheme and content.
 
@@ -58,9 +58,9 @@ Website users can find out about the group, sign up via a form, locate the event
 
     + This page aims to provide related training content that would be useful for users to view before attending their first pack walk event.  
 
-    + It has an unfussy, blog-like format featuring articles containing brief paragraphs of supporting text along with embedded YouTube videos by Zak George's Dog Training Revolution. The stark design helps to improve the page's performance, which contains many videos that can be slow to load.
+    + It has an unfussy, blog-like format featuring articles containing brief paragraphs of supporting text along with embedded YouTube videos by Zak George's Dog Training Revolution. The stark design helps to improve the page's performance, which contains several videos that can be slow to load.
 
-    + An additional navigation sidebar taking the form of an aside guides users to all of the videos on the page via clickable hyperlinks within both the text and videos. There are only 4 videos at present to demonstrate what the page would look like, but a more thoroughly designed site would ideally contain a sticky, scrollable nav sidebar with lots of content.  
+    + An additional navigation sidebar taking the form of an aside guides users to all of the videos on the page via clickable hyperlinks within the text and thumbnail images. There are only 4 videos at present to demonstrate what the page would look like, but a more thoroughly designed site would ideally contain a sticky, scrollable nav sidebar with lots of content.  
 
     + The header and footer are consistent with the home page.
 
@@ -72,7 +72,7 @@ Website users can find out about the group, sign up via a form, locate the event
 
     + The page contains an evocative hero image of a whippet looking out over a pastoral scene, which aims to entice the user to sign up. The chosen image is consistent with the website's colour scheme.
 
-    + The form collects the user's first name, last name, email address, and password (between 8 and 20 characters - contains a placeholder).  It also requires the selection of the user's primary location via a radio button.
+    + The form collects the user's first name, last name, email address, and password (between 8 and 20 characters, and containing a placeholder).  It also requires the selection of the user's primary location via a radio button.
 
     + The header and footer are consistent with the homepage. 
 
