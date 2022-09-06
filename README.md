@@ -86,11 +86,11 @@ Website users can find out about the group, sign up via a form, locate the event
 
         ![colormind.io_color_palette](./assets/images/whippet_walks_color_palette_colormind.io.jpg)
 
-    + A selection of darker gradients were then selected from mycolor.space to improve the contrast:
+    + A selection of darker gradients based around FJORD - 405E63 were then selected from mycolor.space to improve the contrast:
 
         ![mycolor.space_gradient_selection_1](./assets/images/ww_color_variations_1.jpg)
         ![mycolor.space_gradient_selection_2](./assets/images/ww_color_variations_2.jpg)
-        
+
 + ## Fonts
 
     + The font used for the company name and subsequent h1 and h2 headings, EB Garamond, has been chosen for its organic structure, fitting for a website about animals and the outdoors. 
@@ -98,6 +98,10 @@ Website users can find out about the group, sign up via a form, locate the event
     + Complimentary font Poppins has been chosen for use in sub-headings and paragraphs for its simplistic style that improves readability.
 
 + ## Media Queries
+
+    + The website was designed with a desktop first approach.
+
+    + Media queries have been emlpoyed to re-organise the site's dividing sections on smaller screens such as tablets and mobiles.  
 
 # Testing
 
@@ -149,6 +153,8 @@ The site was deployed to Github Pages via the following process:
 # Credits
 
 ## Content
+
++ The idea for the sign up button on the home page was sourced from [stackoverflow.com](https://stackoverflow.com/questions/2906582/how-do-i-create-an-html-button-that-acts-like-a-link)
 
 ## Media
 
