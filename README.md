@@ -48,7 +48,7 @@ Website users can find out about the group, sign up via a form, locate the event
 
 + ## The Footer
 
-    + The Footer features a "Contact" section that encourages users to get in touch via telephone and/or email.
+    + The Footer features a "Contact" section that encourages users to get in touch via a ficticious telephone number and/or email address.
 
     + As an alternative means of contact, the footer also includes five icons that serve as links to the various social media sites where the group *could* host content, arranged in order of popularity: Facebook, YouTube, Instagram, TikTok, and Twitter.  
 
@@ -72,7 +72,7 @@ Website users can find out about the group, sign up via a form, locate the event
 
     + The page contains an evocative hero image of a whippet looking out over a pastoral scene, which aims to entice the user to sign up. The chosen image is consistent with the website's colour scheme.
 
-    + The form collects the user's first name, last name, email address, and password (between 8 and 20 characters).  It also requires the selection of the user's primary location via a radio button.
+    + The form collects the user's first name, last name, email address, and password (between 8 and 20 characters - contains a placeholder).  It also requires the selection of the user's primary location via a radio button.
 
     + The header and footer are consistent with the homepage. 
 
@@ -117,6 +117,8 @@ Website users can find out about the group, sign up via a form, locate the event
 
 # Bugs
 
++ There are no outstanding bugs.
+
 # Validator Testing
 
 + ## HTML
@@ -153,6 +155,8 @@ The site was deployed to Github Pages via the following process:
 # Credits
 
 ## Content
+
++ All font icons are from [fontawesome.com](https://fontawesome.com/).
 
 + The idea for the sign up button on the home page was sourced from [stackoverflow.com](https://stackoverflow.com/questions/2906582/how-do-i-create-an-html-button-that-acts-like-a-link)
 
