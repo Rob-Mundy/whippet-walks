@@ -115,6 +115,8 @@ Website users can find out about the group, sign up via a form, locate upcoming 
 
     ![form_submission_success](./assets/images/form_submission_success.png)
 
++ I have tested the README.md file with the [MD Reader](https://chrome.google.com/webstore/detail/md-reader/medapdbncneneejhbgcjceippjlfkmkg) extension for Chrome.
+
 # Bugs
 
 + There are no outstanding bugs.
