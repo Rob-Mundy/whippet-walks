@@ -284,7 +284,7 @@ hr {
 
 #events ul {
     padding: 12px 24px;
-    font-size: 1.1em;
+    /*font-size: 1.1em;*/
     line-height: 26px;
 }
 
@@ -574,21 +574,30 @@ article p {
         clear: both;
         float: none;
         line-height: 48px;
-        margin-left: 36px;
+        margin-left: 24px;
     }
 
     #logo {
         margin-top: 12px;
     }
+
+    #menu {
+        margin-bottom: 12px;
     }
+    
 
     #cover-text {
         font-size: 1.25rem;
     }
 
+    .circle-container {
+        padding: 12px;
+    }
+
     #welcome,
     #events-title {
-        font-size: 170%;
+        font-size: 150%;
+        margin: 12px;
     }
 
     #tips-main {
