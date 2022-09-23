@@ -149,7 +149,7 @@ h2 {
     text-align: center;
     vertical-align: middle;
     color: #f6f6f6;
-    font-size: 50%;
+    font-size: 75%;
 }
 
 /* group ethos */
@@ -570,11 +570,22 @@ article p {
 @media screen and (max-width: 770px) {
 
     #logo,
-    #menu {
+    #menu ul {
         clear: both;
         float: none;
         line-height: 48px;
-        margin-left: 24px;
+        /*margin-left: 24px;*/
+        margin-left: auto;
+        margin-right: auto;
+        left: 0;
+        right: 0;
+        text-align: center;
+    }
+    #menu ul li {
+        float: none;
+        margin: 0 auto;
+        display: inline;
+        padding: 0px 12px;
     }
 
     #logo {
@@ -582,12 +593,25 @@ article p {
     }
 
     #menu {
-        margin-bottom: 12px;
+        margin: auto auto 12px auto;
     }
-    
 
     #cover-text {
         font-size: 1.25rem;
+        margin-left: auto;
+        margin-right: auto;
+        left: 0;
+        right: 0;
+        text-align: center;
+    }
+
+    .sign-up-link-button {
+        float: none;
+        margin-left: auto;
+        margin-right: auto;
+        left: 0;
+        right: 0;
+        text-align: center;
     }
 
     .circle-container {
@@ -649,9 +673,13 @@ article p {
     }
 
     #menu ul {
-        margin-left: 5%;
+        /*margin-left: 5%;*/
         letter-spacing: 1px;
         font-size: 50%;
+    }
+
+    .sign-up-link-button {
+        height: 30px;
     }
 
     #events div {
