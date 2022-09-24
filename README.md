@@ -133,9 +133,9 @@ Website users can find out about the group, sign up via a form, locate upcoming 
 
     + All pages achieved the maximum Dev Tools Lighthouse accessibility score of 100 on desktop and mobile, demonstrating that the chosen colours and fonts are easily legible.
     
-        Desktop:
+        Desktop (home page):
     ![home_page_lighthouse_desktop](./assets/images/home_page_lighthouse_desktop.png)  
-        Mobile:  
+        Mobile (home page):  
     ![home_page_lighthouse_desktop](./assets/images/home_page_lighthouse_mobile.png)
 
 # Deployment
@@ -159,6 +159,8 @@ The site was deployed to Github Pages via the following process:
 + All font icons are from [fontawesome.com](https://fontawesome.com/).
 
 + The idea for the sign up button on the home page was sourced from [stackoverflow.com](https://stackoverflow.com/questions/2906582/how-do-i-create-an-html-button-that-acts-like-a-link)
+
++ The general layout and design cues were inspired by the Love Running walk-through project. 
 
 ## Media
 

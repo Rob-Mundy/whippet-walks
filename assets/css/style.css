@@ -251,6 +251,7 @@ hr {
     padding: 48px 0px;
     display: inline-block;
     background-color: #f6f6f6;
+    font-size: 1.1em;
 }
 
 #events-title {
@@ -264,7 +265,7 @@ hr {
     height: 550px;
     float: left;
     text-align: center;
-    font-size: 1.1em;
+    /*font-size: 1.1em;*/
     padding: 24px;
     background-color: #fff;
     border: 12px solid #f6f6f6;
@@ -490,11 +491,12 @@ article p {
         width: 90%;
         margin: 0 auto;
         display: block;
+        height: 900px;
     }
 
     #hero-image,
     #cover-text {
-        height: 40%;
+        height: 60%;
         width: 100%;
         margin: 0 auto;
         padding: 0;
@@ -513,6 +515,7 @@ article p {
         width: 70%;
         float: none;
         margin: 0 auto;
+        padding: 12px;
     }
 
     #events {
@@ -615,7 +618,7 @@ article p {
     }
 
     .circle-container {
-        padding: 12px;
+        padding: 16px;
     }
 
     #welcome,
@@ -654,7 +657,7 @@ article p {
 
     #welcome,
     #events-title {
-        font-size: 150%;
+        font-size: 130%;
     }
 
     #group-ethos div,
