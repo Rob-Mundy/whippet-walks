@@ -408,6 +408,7 @@ footer a {
     width: 100%;
     float: left;
     font-size: 230%;
+    padding-bottom: 12px;
 }
 
 #tips-main>p {
