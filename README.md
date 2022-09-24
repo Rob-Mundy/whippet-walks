@@ -95,9 +95,9 @@ Website users can find out about the group, sign up via a form, locate upcoming 
 
 + ## Media Queries
 
-    + The website was designed with a desktop first approach.
+    + The website was designed with a desktop first approach. 
 
-    + Media queries have been emlpoyed to re-organise the site's dividing sections on smaller screens such as tablets and mobiles.  
+    + Media queries have been emlpoyed to re-organise the site's dividing sections on smaller screens such as tablets and mobiles, aligning and centering the content vertically to improve aesthetics and readability.
 
 # Testing
 
