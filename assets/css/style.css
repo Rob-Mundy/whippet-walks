@@ -452,7 +452,8 @@ article p {
     margin: 72px 12px 48px 24px;
 }
 
-#aside-nav-sidebar h3 {
+#aside-nav-sidebar h2 {
+    font-size: 120%;
     line-height: 20px;
     padding-bottom: 6px;
 }

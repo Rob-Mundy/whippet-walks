@@ -165,6 +165,10 @@ Website users can find out about the group, sign up via a form, locate upcoming 
     
         <img src="https://rob-mundy.github.io/whippet-walks/assets/images/readme_images/home_page_lighthouse_mobile.png" width="400px">
 
+        Training (tips page):
+
+        Sign Up Page:
+
 # Deployment
 
 ## Github Pages
