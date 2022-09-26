@@ -6,11 +6,13 @@ The Whippet Walks website is a landing page for owners of whippets & sighthound-
 
 Website users can find out about the group, sign up via a form, locate upcoming events via embedded Google Maps, navigate to associated social media sites, and access training videos on a blog-style page to ensure their dogs' readiness to join.
 
-![am_i_responsive_home_page_results](./assets/images/am_i_responsive_home_page.png)
+![am_i_responsive_home_page_results](./assets/images/readme_images/am_i_responsive_home_page.png)
 
 # Features
 
 + ## Navigation
+
+    ![header_as_displayed_on_desktop](./assets/images/readme_images/header_logo_and_nav_section.png)
 
     + The navigation section is positioned at the top of each webpage in a consistent location.
 
@@ -18,7 +20,13 @@ Website users can find out about the group, sign up via a form, locate upcoming 
 
     + The right-hand side displays links to the site's three pages: Home, Training Tips and Sign Up.   
 
+    + A media query centers the logo above the nav menu on smaller width devices:
+
+    ![header_as_displayed_on_mobile_device](./assets/images/readme_images/header_logo_and_nav_section_mobile.png)
+
 + ## The "Hero Image" header section
+
+    ![hero_image_section_as_displayed_on_desktop](./assets/images/readme_images/hero_section.png)
 
     + The "Hero Image" header section includes a succinct description of what the website offers: "whippet & sighthound organised pack walks".
 
@@ -30,7 +38,13 @@ Website users can find out about the group, sign up via a form, locate upcoming 
 
     + A button detailing the words "Sign up" rounds off the section, providing an easy way for the user to navigate to the sign-up form via the embedded hyperlink.
 
+    + Media queries re-organises the content for devices of a smaller width:
+
+    ![hero_image_section_as_displayed_on_mobile](./assets/images/readme_images/hero_section_mobile.png)
+
 + ## The group ethos section
+
+    ![group_ethos_section_as_displayed_on_desktop](./assets/images/readme_images/club_ethos.png)
 
     + The ethos section provides the user three reasons to join the group, each associated with their dog's wellbeing.
 
@@ -40,6 +54,8 @@ Website users can find out about the group, sign up via a form, locate upcoming 
 
 + ## The events section (upcoming walks)
 
+    ![upcoming_events_section_as_displayed_on_desktop](./assets/images/readme_images/upcoming_events.png)
+
     + The events section provides an insight into what walks are soon to take place. The event tiles have been designed to be brief but comprehensive.
 
     + The individual events contain location names, days, times, important details about the walk distance, dog age restrictions, terrain type, and footwear requirements.
@@ -47,6 +63,8 @@ Website users can find out about the group, sign up via a form, locate upcoming 
     + On larger screens Google Maps are embedded at the bottom of the tiles, providing the user with the exact location of each walk.
 
 + ## The Footer
+
+    ![footer_contact_us_section](./assets/images/readme_images/footer_contact_us_section.png)
 
     + The Footer features a "Contact" section that encourages users to get in touch via a ficticious telephone number and/or email address.
 
@@ -58,9 +76,13 @@ Website users can find out about the group, sign up via a form, locate upcoming 
 
     + This page aims to provide related training content that would be useful for users to view before attending their first pack walk event.  
 
+    ![embedded_training_video_example](./assets/images/readme_images/embedded_youtube_video_example.png)
+
     + It has an unfussy, blog-like format featuring articles containing brief paragraphs of supporting text along with embedded YouTube videos by Zak George's Dog Training Revolution. The stark design helps to improve the page's performance, which contains several videos that can be slow to load.
 
-    + An additional navigation sidebar taking the form of an aside guides users to all of the videos on the page via clickable hyperlinks within the text and thumbnail images. There are only 4 videos at present to demonstrate what the page would look like, but a more thoroughly designed site would ideally contain a sticky, scrollable nav sidebar with lots of content.  
+    + An additional navigation sidebar taking the form of an aside guides users to all of the videos on the page via clickable hyperlinks within the text and thumbnail images. There are only 4 videos at present to demonstrate what the page would look like, but a more thoroughly developed site would ideally contain a sticky, scrollable nav sidebar with plenty of appropriate content.  
+
+    ![nav_menu_sidebar_with_internal_links](./assets/images/readme_images/sidebar_links.png)
 
 + # The Sign Up page
 
@@ -72,6 +94,8 @@ Website users can find out about the group, sign up via a form, locate upcoming 
 
     + The form collects the user's first name, last name, email address, and password (between 8 and 20 characters, and containing a placeholder).  It also requires the selection of the user's primary location via a radio button.
 
+    ![sign_up_form](./assets/images/readme_images/sign_up_form.png)
+
     + The form captures and submits the information in the desired manner (see the testing section for evidence).
 
 # UX Design
@@ -80,12 +104,12 @@ Website users can find out about the group, sign up via a form, locate upcoming 
 
     + A suitable color palette was generated via colormind.io's AI tool, chosen for its calming, natural tones:
 
-        ![colormind.io_color_palette](./assets/images/whippet_walks_color_palette_colormind.io.jpg)
+        ![colormind.io_color_palette](./assets/images/readme_images/whippet_walks_color_palette_colormind.io.jpg)
 
     + A selection of darker gradients based around FJORD - 405E63 were then selected from mycolor.space to improve the contrast:
 
-        ![mycolor.space_gradient_selection_1](./assets/images/ww_color_variations_1.jpg)
-        ![mycolor.space_gradient_selection_2](./assets/images/ww_color_variations_2.jpg)
+        ![mycolor.space_gradient_selection_1](./assets/images/readme_images/ww_color_variations_1.jpg)
+        ![mycolor.space_gradient_selection_2](./assets/images/readme_images/ww_color_variations_2.jpg)
 
 + ## Fonts
 
@@ -109,13 +133,13 @@ Website users can find out about the group, sign up via a form, locate upcoming 
 
 + The submission receipt below demonstrates that the form works as expected:
 
-    ![form_submission_success](./assets/images/form_submission_success.png)
+    ![form_submission_success](./assets/images/readme_images/form_submission_success.png)
 
 + I have tested the [README.md](https://rob-mundy.github.io/whippet-walks/README.md) file with the [MD Reader](https://chrome.google.com/webstore/detail/md-reader/medapdbncneneejhbgcjceippjlfkmkg) extension for Chrome.
 
 # Bugs
 
-+ Upon publishing the site to GitHub Pages none of the images were displaying despite all showing when published locally via GitPod.  At this time most were stored in JPEG form so as an initial troubleshooting step I replaced them with .webp versions, which would additionally deliver minor performance improvements.  This inexplicably fixed the large banner images along with those in circular containers, but the thumbnail images weren't corrected.  Having opened the image links in new browser tabs, I tried adding additional folder directories until the images loaded.  The eventual solution was to prefix the image source with the site directory "/whippet-walks/" in front of /assets. The images now load as expected.
++ Upon publishing the site to GitHub Pages none of the images were displaying despite all showing when published locally via GitPod.  At this time most were stored in JPEG form so as an initial troubleshooting step I replaced them with .webp versions, which would additionally deliver minor performance improvements.  This inexplicably fixed the large banner images along with those in circular containers, but the thumbnail images weren't corrected.  Having opened the image links in new browser tabs, I tried adding additional folder directories to the file paths until the images loaded.  The eventual solution was to prefix the image source with the site directory "/whippet-walks/" in front of /assets. The images now load as expected.
 
 + There are no outstanding bugs.
 
@@ -134,9 +158,9 @@ Website users can find out about the group, sign up via a form, locate upcoming 
     + All pages achieved the maximum Dev Tools Lighthouse accessibility score of 100 on desktop and mobile, demonstrating that the chosen colours and fonts are easily legible.
     
         Desktop (home page):
-    ![home_page_lighthouse_desktop](./assets/images/home_page_lighthouse_desktop.png)  
+    ![home_page_lighthouse_desktop](./assets/images/readme_images/home_page_lighthouse_desktop.png)  
         Mobile (home page):  
-    ![home_page_lighthouse_desktop](./assets/images/home_page_lighthouse_mobile.png)
+    ![home_page_lighthouse_desktop](./assets/images/readme_images/home_page_lighthouse_mobile.png)
 
 # Deployment
 
