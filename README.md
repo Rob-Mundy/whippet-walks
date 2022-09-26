@@ -115,7 +115,7 @@ Website users can find out about the group, sign up via a form, locate upcoming 
 
 # Bugs
 
-+ Upon publishing the site to GitHub Pages none of the images were displaying despite all showing when published locally via GitPod.  At this time most were stored in JPEG form so as an initial troubleshooting step I replaced them with .webp versions, which would additionally deliver minor performance improvements.  This fixed the large banner images and those in circular containers but the thumbnail images weren't corrected.  
++ Upon publishing the site to GitHub Pages none of the images were displaying despite all showing when published locally via GitPod.  At this time most were stored in JPEG form so as an initial troubleshooting step I replaced them with .webp versions, which would additionally deliver minor performance improvements.  This inexplicably fixed the large banner images along with those in circular containers, but the thumbnail images weren't corrected.  Having opened the image links in new browser tabs, I tried adding additional folder directories until the images loaded.  The eventual solution was to prefix the image source with the site directory "/whippet-walks/" in front of /assets. The images now load as expected.
 
 + There are no outstanding bugs.
 
