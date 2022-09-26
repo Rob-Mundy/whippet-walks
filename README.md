@@ -167,7 +167,11 @@ Website users can find out about the group, sign up via a form, locate upcoming 
 
         Training (tips page):
 
+        <img src="https://rob-mundy.github.io/whippet-walks/assets/images/readme_images/training_tips_lighthouse_result_desktop.png" width="400px">
+
         Sign Up Page:
+
+        <img src="https://rob-mundy.github.io/whippet-walks/assets/images/readme_images/signup_page_lighthouse_result_desktop.png" width="400px">
 
 # Deployment
 
