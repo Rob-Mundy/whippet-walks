@@ -64,7 +64,7 @@ Website users can find out about the group, sign up via a form, locate upcoming 
 
 + ## The Footer
 
-    <img src="https://rob-mundy.github.io/whippet-walks//assets/images/readme_images/footer_contact_us_section.png" width="400px">
+    <img src="https://rob-mundy.github.io/whippet-walks/assets/images/readme_images/footer_contact_us_section.png" width="400px">
     
     + The Footer features a "Contact" section that encourages users to get in touch via a fictitious telephone number and/or email address.
 
