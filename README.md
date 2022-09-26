@@ -36,7 +36,7 @@ Website users can find out about the group, sign up via a form, locate upcoming 
 
     + An accompanying image containing a pair of white whippets is appropriate for the color scheme and content.
 
-    + A button detailing the words "Sign up" rounds off the section, providing an easy way for the user to navigate to the sign-up form via the embedded hyperlink.
+    + A button detailing the words "Sign up" rounds off the section, providing an easy way for the user to navigate to the sign-up form via the embedded hyperlink.  The button darkens to indicate that the user is hovering over and can execute a function.
 
     + Media queries re-organise the content for devices of a smaller width:
 
@@ -95,6 +95,8 @@ Website users can find out about the group, sign up via a form, locate upcoming 
     + The form collects the user's first name, last name, email address, and password (between 8 and 20 characters, and containing a placeholder).  It also requires the selection of the user's primary location via a radio button.
 
     <img src="https://rob-mundy.github.io/whippet-walks/assets/images/readme_images/sign_up_form.png" height="300px">
+
+    + The submit button entitled "Create your free account" darkens when the cursor moves over the button, giving a visual cue to the user that they are able to execute a function.
 
     + The form captures and submits the information in the desired manner (see the testing section for evidence).
 
