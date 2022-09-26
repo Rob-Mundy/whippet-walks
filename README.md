@@ -22,7 +22,7 @@ Website users can find out about the group, sign up via a form, locate upcoming 
 
     + A media query centres the logo above the nav menu on smaller width devices:
 
-    <img src="https://rob-mundy.github.io/whippet-walks//assets/images/readme_images/header_logo_and_nav_section_mobile.png" height="100px">
+        <img src="https://rob-mundy.github.io/whippet-walks//assets/images/readme_images/header_logo_and_nav_section_mobile.png" height="100px">
 
 + ## The "Hero Image" header section
 
@@ -40,7 +40,7 @@ Website users can find out about the group, sign up via a form, locate upcoming 
 
     + Media queries re-organise the content for devices of a smaller width:
 
-    ![hero_image_section_as_displayed_on_mobile](./assets/images/readme_images/hero_section_mobile.png)
+        ![hero_image_section_as_displayed_on_mobile](./assets/images/readme_images/hero_section_mobile.png)
 
 + ## The group ethos section
 
@@ -76,13 +76,13 @@ Website users can find out about the group, sign up via a form, locate upcoming 
 
     + This page aims to provide related training content that would be useful for users to view before attending their first pack walk event.  
 
-    <img src="https://rob-mundy.github.io/whippet-walks//assets/images/readme_images/embedded_youtube_video_example.png" height="300px">
+        <img src="https://rob-mundy.github.io/whippet-walks//assets/images/readme_images/embedded_youtube_video_example.png" height="300px">
 
     + It has an unfussy, blog-like format featuring articles containing brief paragraphs of supporting text along with embedded YouTube videos by Zak George's Dog Training Revolution. The stark design helps to improve the page's performance, which is hampered by the slow-loading video content.
 
     + An additional navigation sidebar taking the form of an aside guides users to all of the videos on the page via clickable hyperlinks within the text and thumbnail images. There are only 4 videos at present to demonstrate what the page would look like, but a more thoroughly developed site would ideally contain a sticky, scrollable nav sidebar with plenty of appropriate content.  
 
-    <img src="https://rob-mundy.github.io/whippet-walks/assets/images/readme_images/sidebar_links.png" height="300px">
+        <img src="https://rob-mundy.github.io/whippet-walks/assets/images/readme_images/sidebar_links.png" height="300px">
 
 + # The Sign Up page
 
@@ -94,7 +94,7 @@ Website users can find out about the group, sign up via a form, locate upcoming 
 
     + The form collects the user's first name, last name, email address, and password (between 8 and 20 characters, and containing a placeholder).  It also requires the selection of the user's primary location via a radio button.
 
-    <img src="https://rob-mundy.github.io/whippet-walks/assets/images/readme_images/sign_up_form.png" height="300px">
+        <img src="https://rob-mundy.github.io/whippet-walks/assets/images/readme_images/sign_up_form.png" height="300px">
 
     + The submit button entitled "Create your free account" darkens when the cursor moves over the button, giving a visual cue to the user that they are able to execute a function.
 
