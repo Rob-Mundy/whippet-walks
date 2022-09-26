@@ -153,6 +153,10 @@ h2 {
 }
 
 /* group ethos */
+/* 
+the idea for splitting the section into vertical divs and using circular containers for pictures
+was derived from the Love Running project
+*/
 
 #welcome {
     margin-bottom: 24px;
@@ -347,7 +351,7 @@ footer a {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 900px;
+    height: 850px;
     width: 100%;
 }
 
@@ -357,8 +361,9 @@ footer a {
     border-radius: 15px;
     position: absolute;
     right: 10%;
+    top: 5%;
     padding: 24px;
-    margin: 150px 5% 0 0;
+    margin: 5% 5% 0 0;
     max-width: 350px;
 }
 

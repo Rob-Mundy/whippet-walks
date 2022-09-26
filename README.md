@@ -199,7 +199,7 @@ The site was deployed to Github Pages via the following process:
 
 + The idea for the sign up button on the home page was sourced from [stackoverflow.com](https://stackoverflow.com/questions/2906582/how-do-i-create-an-html-button-that-acts-like-a-link)
 
-+ The [Love Running walk-through project](https://rob-mundy.github.io/love-running/index.html) inspired much of the general layout and design cues. 
++ The [Love Running walk-through project](https://rob-mundy.github.io/love-running/index.html) inspired much of the general layout, naming conventions and design cues. 
 
 ## Media
 
