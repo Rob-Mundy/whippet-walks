@@ -20,9 +20,9 @@ Website users can find out about the group, sign up via a form, locate upcoming 
 
     + The right-hand side displays links to the site's three pages: Home, Training Tips and Sign Up.   
 
-    + A media query centers the logo above the nav menu on smaller width devices:
+    + A media query centres the logo above the nav menu on smaller width devices:
 
-    ![header_as_displayed_on_mobile_device](./assets/images/readme_images/header_logo_and_nav_section_mobile.png)
+    <img src="https://rob-mundy.github.io/whippet-walks//assets/images/readme_images/header_logo_and_nav_section_mobile.png" height="100px">
 
 + ## The "Hero Image" header section
 
@@ -38,7 +38,7 @@ Website users can find out about the group, sign up via a form, locate upcoming 
 
     + A button detailing the words "Sign up" rounds off the section, providing an easy way for the user to navigate to the sign-up form via the embedded hyperlink.
 
-    + Media queries re-organises the content for devices of a smaller width:
+    + Media queries re-organise the content for devices of a smaller width:
 
     ![hero_image_section_as_displayed_on_mobile](./assets/images/readme_images/hero_section_mobile.png)
 
@@ -46,7 +46,7 @@ Website users can find out about the group, sign up via a form, locate upcoming 
 
     ![group_ethos_section_as_displayed_on_desktop](./assets/images/readme_images/club_ethos.png)
 
-    + The ethos section provides the user three reasons to join the group, each associated with their dog's wellbeing.
+    + The ethos section provides the user with three reasons to join the group, each associated with their dog's wellbeing.
 
     + Images of dogs enjoying themselves, mostly in packs, have been included to encourage the user to sign up for the group.
 
@@ -64,9 +64,9 @@ Website users can find out about the group, sign up via a form, locate upcoming 
 
 + ## The Footer
 
-     ![footer_contact_us_section](./assets/images/readme_images/footer_contact_us_section.png)
-
-    + The Footer features a "Contact" section that encourages users to get in touch via a ficticious telephone number and/or email address.
+    <img src="https://rob-mundy.github.io/whippet-walks//assets/images/readme_images/footer_contact_us_section.png" width="400px">
+    
+    + The Footer features a "Contact" section that encourages users to get in touch via a fictitious telephone number and/or email address.
 
     + As an alternative means of contact, the footer also includes five icons that serve as links to the various social media sites where the group *could* host content, arranged in order of popularity: Facebook, YouTube, Instagram, TikTok, and Twitter.  
 
@@ -76,13 +76,13 @@ Website users can find out about the group, sign up via a form, locate upcoming 
 
     + This page aims to provide related training content that would be useful for users to view before attending their first pack walk event.  
 
-    ![embedded_training_video_example](./assets/images/readme_images/embedded_youtube_video_example.png)
+    <img src="https://rob-mundy.github.io/whippet-walks//assets/images/readme_images/embedded_youtube_video_example.png" height="300px">
 
-    + It has an unfussy, blog-like format featuring articles containing brief paragraphs of supporting text along with embedded YouTube videos by Zak George's Dog Training Revolution. The stark design helps to improve the page's performance, which contains several videos that can be slow to load.
+    + It has an unfussy, blog-like format featuring articles containing brief paragraphs of supporting text along with embedded YouTube videos by Zak George's Dog Training Revolution. The stark design helps to improve the page's performance, which is hampered by the slow-loading video content.
 
     + An additional navigation sidebar taking the form of an aside guides users to all of the videos on the page via clickable hyperlinks within the text and thumbnail images. There are only 4 videos at present to demonstrate what the page would look like, but a more thoroughly developed site would ideally contain a sticky, scrollable nav sidebar with plenty of appropriate content.  
 
-    ![nav_menu_sidebar_with_internal_links](./assets/images/readme_images/sidebar_links.png)
+    <img src="https://rob-mundy.github.io/whippet-walks/assets/images/readme_images/sidebar_links.png" height="300px">
 
 + # The Sign Up page
 
@@ -94,7 +94,7 @@ Website users can find out about the group, sign up via a form, locate upcoming 
 
     + The form collects the user's first name, last name, email address, and password (between 8 and 20 characters, and containing a placeholder).  It also requires the selection of the user's primary location via a radio button.
 
-    ![sign_up_form](./assets/images/readme_images/sign_up_form.png)
+    <img src="https://rob-mundy.github.io/whippet-walks/assets/images/readme_images/sign_up_form.png" height="300px">
 
     + The form captures and submits the information in the desired manner (see the testing section for evidence).
 
@@ -108,8 +108,8 @@ Website users can find out about the group, sign up via a form, locate upcoming 
 
     + A selection of darker gradients based around FJORD - 405E63 were then selected from mycolor.space to improve the contrast:
 
-        ![mycolor.space_gradient_selection_1](./assets/images/readme_images/ww_color_variations_1.jpg)
-        ![mycolor.space_gradient_selection_2](./assets/images/readme_images/ww_color_variations_2.jpg)
+        <img src="https://rob-mundy.github.io/whippet-walks/assets/images/readme_images/ww_color_variations_1.jpg" height="150px">
+        <img src="https://rob-mundy.github.io/whippet-walks/assets/images/readme_images/ww_color_variations_2.jpg" height="150px">
 
 + ## Fonts
 
@@ -119,9 +119,9 @@ Website users can find out about the group, sign up via a form, locate upcoming 
 
 + ## Media Queries
 
-    + The website was designed with a desktop first approach. 
+    + The website was designed with a desktop-first approach. 
 
-    + Media queries have been emlpoyed to re-organise the site's dividing sections on smaller screens such as tablets and mobiles, aligning and centering the content vertically to improve aesthetics and readability.
+    + Media queries have been employed to re-organise the site's dividing sections on smaller screens such as tablets and mobiles, aligning and centring the content vertically to improve aesthetics and readability.
 
 # Testing
 
@@ -139,7 +139,7 @@ Website users can find out about the group, sign up via a form, locate upcoming 
 
 # Bugs
 
-+ Upon publishing the site to GitHub Pages none of the images were displaying despite all showing when published locally via GitPod.  At this time most were stored in JPEG form so as an initial troubleshooting step I replaced them with .webp versions, which would additionally deliver minor performance improvements.  This inexplicably fixed the large banner images along with those in circular containers, but the thumbnail images weren't corrected.  Having opened the image links in new browser tabs, I tried adding additional folder directories to the file paths until the images loaded.  The eventual solution was to prefix the image source with the site directory "/whippet-walks/" in front of /assets. The images now load as expected.
++ Upon publishing to GitHub Pages the site's images were not displaying despite all showing when published locally via GitPod.  At this time most were stored in JPEG format so as an initial troubleshooting step I replaced them with .webp versions, which would additionally deliver minor performance improvements.  This inexplicably fixed the large banner images along with those in circular containers, but the thumbnail images that were linked via HTML rather than CSS weren't corrected.  Having opened the image links in separate browser tabs, I added folder directories to the file paths until the images loaded.  The eventual solution was to prefix the image source with the site directory "/whippet-walks/" in front of /assets. The images now loads in a browser as expected, however in the GitPod local preview they do not.
 
 + There are no outstanding bugs.
 
@@ -158,9 +158,12 @@ Website users can find out about the group, sign up via a form, locate upcoming 
     + All pages achieved the maximum Dev Tools Lighthouse accessibility score of 100 on desktop and mobile, demonstrating that the chosen colours and fonts are easily legible.
     
         Desktop (home page):
-    ![home_page_lighthouse_desktop](./assets/images/readme_images/home_page_lighthouse_desktop.png)  
+
+        <img src="https://rob-mundy.github.io/whippet-walks/assets/images/readme_images/home_page_lighthouse_desktop.png" width="400px">
+
         Mobile (home page):  
-    ![home_page_lighthouse_desktop](./assets/images/readme_images/home_page_lighthouse_mobile.png)
+    
+        <img src="https://rob-mundy.github.io/whippet-walks/assets/images/readme_images/home_page_lighthouse_mobile.png" width="400px">
 
 # Deployment
 
@@ -184,7 +187,7 @@ The site was deployed to Github Pages via the following process:
 
 + The idea for the sign up button on the home page was sourced from [stackoverflow.com](https://stackoverflow.com/questions/2906582/how-do-i-create-an-html-button-that-acts-like-a-link)
 
-+ The general layout and design cues were inspired by the Love Running walk-through project. 
++ The Love Running walk-through project inspired much of the general layout and design cues. 
 
 ## Media
 
@@ -200,7 +203,7 @@ The site was deployed to Github Pages via the following process:
 
 + The three maps within the events section of the home page were embedded via GoogleMaps using the following process:
 
-    + Enter corresponding place name into the search bar and select an appropriate location
+    + Enter the corresponding place name into the search bar and select an appropriate location
 
     + Click "Share" and then select "Embed a map"
     
