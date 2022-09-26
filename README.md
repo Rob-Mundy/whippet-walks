@@ -64,7 +64,7 @@ Website users can find out about the group, sign up via a form, locate upcoming 
 
 + ## The Footer
 
-    ![footer_contact_us_section](./assets/images/readme_images/footer_contact_us_section.png)
+     ![footer_contact_us_section](./assets/images/readme_images/footer_contact_us_section.png)
 
     + The Footer features a "Contact" section that encourages users to get in touch via a ficticious telephone number and/or email address.
 
