@@ -450,12 +450,14 @@ article p {
     float: right;
     padding: 24px;
     margin: 72px 12px 48px 24px;
+    background-color: #f6f6f6;
 }
 
 #aside-nav-sidebar h2 {
-    font-size: 120%;
-    line-height: 20px;
-    padding-bottom: 6px;
+    font-size: 150%;
+    line-height: 25px;
+    padding-bottom: 12px;
+    text-align: center;
 }
 
 #aside-nav-sidebar ul li {
