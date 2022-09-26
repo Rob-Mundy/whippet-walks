@@ -199,7 +199,7 @@ The site was deployed to Github Pages via the following process:
 
 + The idea for the sign up button on the home page was sourced from [stackoverflow.com](https://stackoverflow.com/questions/2906582/how-do-i-create-an-html-button-that-acts-like-a-link)
 
-+ The [Love Running walk-through project](https://rob-mundy.github.io/love-running/index.html) inspired much of the general layout, naming conventions and design cues. 
++ The [Love Running walk-through project](https://rob-mundy.github.io/love-running/index.html) inspired much of the general layout, naming conventions and design cues. This includes, but is not limited to: section dimensions (600px height so as to fit on a 768px display), header layout (logo left, nav right), use of circular containers for images, use of fontawesome icons, use of social icons in the footer, using tiles to divide sections, styling of the sign up form. Given the widespread use of these design elements, many of which being "best practice" for user experience, I haven't credited them specifically.  
 
 ## Media
 
