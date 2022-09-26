@@ -143,7 +143,7 @@ Website users can find out about the group, sign up via a form, locate upcoming 
 
 + Upon publishing to GitHub Pages the site's images were not displaying despite all showing when published locally via GitPod.  At this time most were stored in JPEG format so as an initial troubleshooting step I replaced them with .webp versions, which would additionally deliver minor performance improvements.  This inexplicably fixed the large banner images along with those in circular containers, but the thumbnail images that were linked via HTML rather than CSS weren't corrected. 
 
-+ The issue was that absolute file paths was being used, so by removing the '/' before assets the problem was resolved. 
++ The issue was that absolute file paths were being used, so by removing the '/' before assets the problem was resolved. 
 
 + There are no outstanding bugs.
 
